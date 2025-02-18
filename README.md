@@ -1,3 +1,3 @@
 # Anushka
-author-Anushka kumbhar
+author-Anushka kumbhar(SKNCOE)
 This is my first repository
